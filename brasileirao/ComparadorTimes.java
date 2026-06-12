@@ -1,6 +1,6 @@
-import java.util.Comparator;
+import java.util.Comparador;
 
-public class ComparatorTimes implements Comparator<Time> {
+public class ComparatorTimes implements Comparador<Time> {
 
     @Override
     public int compare(Time t1, Time t2) {
